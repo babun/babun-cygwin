@@ -23,12 +23,14 @@ findutils
 gawk
 gcc
 gcc-core
+gettext
 git
 git-svn
 gnutls
 grep
 groff
 gzip
+hostname
 ipc-utils
 keychain
 less
