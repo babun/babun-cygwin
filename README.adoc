@@ -1,2 +1,0 @@
-# babun-cygwin
-Babun - Cygwin installer and packages cache used in the packaging of babun
